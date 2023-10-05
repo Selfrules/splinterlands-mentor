@@ -1,0 +1,1670 @@
+[
+  {
+    "Abilita": "Affliction",
+    "Positive": [
+      "Camouflage",
+      "Scavenger",
+      "Poison"
+    ],
+    "Negative": [
+      "Cripple",
+      "Scattershot",
+      "Amplify"
+    ],
+    "Regole Positive": [
+      "Holy Protection",
+      "Equalizer",
+      "Noxious Fumes"
+    ],
+    "Regole Negative": [
+      "Healed Out",
+      "Lost Magic",
+      "Earthquake"
+    ]
+  },
+  {
+    "Abilita": "Amplify",
+    "Positive": [
+      "Magic Reflect",
+      "Return Fire",
+      "Thorns"
+    ],
+    "Negative": [
+      "Stun",
+      "Phase",
+      "Reflection Shield"
+    ],
+    "Regole Positive": [
+      "Counterspell",
+      "Fire & Regret",
+      "Briar Patch"
+    ],
+    "Regole Negative": [
+      "Lost Magic",
+      "Broken Arrows",
+      "Spreading Fury"
+    ]
+  },
+  {
+    "Abilita": "Backfire",
+    "Positive": [
+      "Dodge",
+      "Flying",
+      "Swiftness"
+    ],
+    "Negative": [
+      "Stun",
+      "True Strike",
+      "Snare"
+    ],
+    "Regole Positive": [
+      "Super Sneak",
+      "Up close and personal",
+      "Holy Protection"
+    ],
+    "Regole Negative": [
+      "What Doesn't Kill You",
+      "Reverse speed",
+      "Aim True"
+    ]
+  },
+  {
+    "Abilita": "Blast",
+    "Positive": [
+      "Scavenger",
+      "True Strike",
+      "Snipe"
+    ],
+    "Negative": [
+      "Reflection Shield",
+      "Enrage",
+      "Return Fire"
+    ],
+    "Regole Positive": [
+      "Holy Protection",
+      "Target practice",
+      "Unprotected"
+    ],
+    "Regole Negative": [
+      "Counterspell",
+      "Fire & Regret",
+      "Spreading Fury"
+    ]
+  },
+  {
+    "Abilita": "Blind",
+    "Positive": [
+      "Backfire",
+      "Flying",
+      "Swiftness"
+    ],
+    "Negative": [
+      "Thorns",
+      "True Strike"
+    ],
+    "Regole Positive": [
+      "Up Close and Personal",
+      "Lost Magic",
+      "Super Sneak"
+    ],
+    "Regole Negative": [
+      "Aim True",
+      "Armored up",
+      "Broken Arrows"
+    ]
+  },
+  {
+    "Abilita": "Bloodlust",
+    "Positive": [
+      "Piercing",
+      "Rust",
+      "Inspire"
+    ],
+    "Negative": [
+      "Forcefield",
+      "Halving",
+      "Stun"
+    ],
+    "Regole Positive": [
+      "Equal Opportunity",
+      "Melee Mayhem",
+      "Explosive Weaponry"
+    ],
+    "Regole Negative": [
+      "Fog of War",
+      "Unprotected",
+      "Equalizer"
+    ]
+  },
+  {
+    "Abilita": "Camouflage",
+    "Positive": [
+      "Opportunity",
+      "Cleanse",
+      "Affliction"
+    ],
+    "Negative": [
+      "Return Fire",
+      "Magic Reflect",
+      "Last Stand"
+    ],
+    "Regole Positive": [
+      "Super Sneak",
+      "Up close and personal",
+      "Holy Protection"
+    ],
+    "Regole Negative": [
+      "Aimless",
+      "Earthquake",
+      "Explosive Weaponry"
+    ]
+  },
+  {
+    "Abilita": "Cleanse",
+    "Positive": [
+      "Healing",
+      "Tank heal",
+      "Taunt"
+    ],
+    "Negative": [
+      ""
+    ],
+    "Regole Positive": [
+      "Noxious Fumes",
+      "Healed out",
+      "Super Sneak"
+    ],
+    "Regole Negative": [
+      ""
+    ]
+  },
+  {
+    "Abilita": "Close Range",
+    "Positive": [
+      "Blast",
+      "True Strike",
+      "Stun"
+    ],
+    "Negative": [
+      "Inspire",
+      "Backfire",
+      "Return Fire"
+    ],
+    "Regole Positive": [
+      "Weak Magic",
+      "Aim true",
+      "Equalizer"
+    ],
+    "Regole Negative": [
+      "Broken arrows",
+      "Up Close and Personal",
+      "Fire & Regret"
+    ]
+  },
+  {
+    "Abilita": "Conscript",
+    "Positive": [
+      "Inspire",
+      "Piercing",
+      "Martyr"
+    ],
+    "Negative": [
+      "Forcefield",
+      "Halving",
+      "Stun"
+    ],
+    "Regole Positive": [
+      "Equal Opportunity",
+      "Spreading Fury",
+      "Unprotected"
+    ],
+    "Regole Negative": [
+      "Fog of War",
+      "Reverse Speed",
+      "Counterspell",
+      "Fire & Regret",
+      "Briar Patch"
+    ]
+  },
+  {
+    "Abilita": "Cripple",
+    "Positive": [
+      "Weaken",
+      "Stun",
+      "Affliction"
+    ],
+    "Negative": [
+      ""
+    ],
+    "Regole Positive": [
+      "Healed Out",
+      "Equalizer",
+      "Little league"
+    ],
+    "Regole Negative": [
+      ""
+    ]
+  },
+  {
+    "Abilita": "Deathblow",
+    "Positive": [
+      "Stun",
+      "Inspire",
+      "Last Stand"
+    ],
+    "Negative": [
+      "Stun",
+      "Forcefield",
+      "Magic Reflect",
+      "Return Fire",
+      "Thorns"
+    ],
+    "Regole Positive": [
+      "Heavy Hitters",
+      "Spreading Fury",
+      "Super Sneak"
+    ],
+    "Regole Negative": [
+      "Back to Basics",
+      "Little League",
+      "Noxious Fumes"
+    ]
+  },
+  {
+    "Abilita": "Demoralize",
+    "Positive": [
+      "Thorns",
+      "Headwinds",
+      "Weaken"
+    ],
+    "Negative": [
+      "Cleanse",
+      "Immunity",
+      "Inspire"
+    ],
+    "Regole Positive": [
+      "Up close and Personal",
+      "Melee Mayhem",
+      "What Doesn't Kill You"
+    ],
+    "Regole Negative": [
+      "Keep your Distance",
+      "Close Range",
+      "Wands Out",
+      "Going the Distance"
+    ]
+  },
+  {
+    "Abilita": "Dispel",
+    "Positive": [
+      "Rust",
+      "Slow",
+      "Strengthen"
+    ],
+    "Negative": [
+      ""
+    ],
+    "Regole Positive": [
+      "Armored up",
+      "Healed out",
+      "Weak Magic"
+    ],
+    "Regole Negative": [
+      ""
+    ]
+  },
+  {
+    "Abilita": "Divine Shield",
+    "Positive": [
+      "Stun",
+      "Immunity",
+      "Retaliate"
+    ],
+    "Negative": [
+      "Poison",
+      "Return Fire",
+      "Magic Reflect"
+    ],
+    "Regole Positive": [
+      "Super Sneak",
+      "Weak Magic",
+      "Equal Opportunity"
+    ],
+    "Regole Negative": [
+      "Explosive Weaponry",
+      "Fire & Regret",
+      "Counterspell"
+    ]
+  },
+  {
+    "Abilita": "Dodge",
+    "Positive": [
+      "Swiftness",
+      "Backfire",
+      "Blind"
+    ],
+    "Negative": [
+      "True Strike",
+      "Slow",
+      "Return Fire"
+    ],
+    "Regole Positive": [
+      "Up Close and Personal",
+      "Stampede"
+    ],
+    "Regole Negative": [
+      "Aim True",
+      "Reverse Speed",
+      "Thorns"
+    ]
+  },
+  {
+    "Abilita": "Double Strike",
+    "Positive": [
+      "Inspire",
+      "Sneak",
+      "Shield",
+      "Void"
+    ],
+    "Negative": [
+      "Thorns",
+      "Stun",
+      "Halving"
+    ],
+    "Regole Positive": [
+      "Super Sneak",
+      "Heavy Hitters",
+      "Explosive Weaponry"
+    ],
+    "Regole Negative": [
+      "Back to Basics",
+      "Briar Patch",
+      "Counterspell",
+      "Fire & Regret",
+      "Reverse Speed"
+    ]
+  },
+  {
+    "Abilita": "Enrage",
+    "Positive": [
+      "Inspire",
+      "Trample",
+      "Piercing"
+    ],
+    "Negative": [
+      "Demoralize",
+      "Halving",
+      "Stun"
+    ],
+    "Regole Positive": [
+      "Melee Mayhem",
+      "Noxious Fumes",
+      "Earthquake",
+      "Explosive Weaponry",
+      "Heavy Hitters"
+    ],
+    "Regole Negative": [
+      "Back to Basics",
+      "Keep your Distance",
+      "Going the Distance",
+      "Wands Out",
+      "Briar Patch"
+    ]
+  },
+  {
+    "Abilita": "Flying",
+    "Positive": [
+      "Swiftness",
+      "Backfire",
+      "Blind"
+    ],
+    "Negative": [
+      "Snare",
+      "True Strike",
+      "Backfire"
+    ],
+    "Regole Positive": [
+      "Earthquake",
+      "Super Sneak",
+      "Stampede"
+    ],
+    "Regole Negative": [
+      "Aim True",
+      "Reverse Speed",
+      "Back to Basics"
+    ]
+  },
+  {
+    "Abilita": "Forcefield",
+    "Positive": [
+      "Bloodlust",
+      "Heal",
+      "Taunt"
+    ],
+    "Negative": [
+      "Halving",
+      "Stun",
+      "Blind"
+    ],
+    "Regole Positive": [
+      "Heavy Hitters",
+      "Melee Mayhem",
+      "What Doesn't Kill You"
+    ],
+    "Regole Negative": [
+      "Little League",
+      "Target Practice",
+      "Counterspell",
+      "Broken Arrows",
+      "Briar Patch"
+    ]
+  },
+  {
+    "Abilita": "Fury",
+    "Positive": [
+      "Taunt",
+      "Giant Killer",
+      "Stun"
+    ],
+    "Negative": [
+      "Blind",
+      "Headwinds",
+      "Heal",
+      "Stun"
+    ],
+    "Regole Positive": [
+      "Fog of War",
+      "Unprotected",
+      "Heavy Hitters"
+    ],
+    "Regole Negative": [
+      "Little League",
+      "Back to Basics",
+      "Holy Protection"
+    ]
+  },
+  {
+    "Abilita": "Giant Killer",
+    "Positive": [
+      "Inspire",
+      "Trample",
+      "Piercing"
+    ],
+    "Negative": [
+      "Demoralize",
+      "Stun",
+      "Forcefield"
+    ],
+    "Regole Positive": [
+      "What Doesn't Kill You",
+      "Melee Mayhem",
+      "Heavy Hitters"
+    ],
+    "Regole Negative": [
+      "Back to Basics",
+      "Little Leagues",
+      "Aimless"
+    ]
+  },
+  {
+    "Abilita": "Halving",
+    "Positive": [
+      "True Strike",
+      "Redemption",
+      "Bloodlust"
+    ],
+    "Negative": [
+      "Cleanse",
+      "Immunity",
+      "Blind"
+    ],
+    "Regole Positive": [
+      "Armored Up",
+      "Aimless",
+      "What Doesn't Kill You"
+    ],
+    "Regole Negative": [
+      "Wands Out",
+      "Fire & Regret",
+      "Explosive Weaponry"
+    ]
+  },
+  {
+    "Abilita": "Headwinds",
+    "Positive": [
+      "Return Fire",
+      "Blind",
+      "Dodge"
+    ],
+    "Negative": [
+      "True Strike",
+      "Cleanse",
+      "Return Fire"
+    ],
+    "Regole Positive": [
+      "Close Range",
+      "Explosive Weaponry",
+      "Lost Magic"
+    ],
+    "Regole Negative": [
+      "Broken Arrows",
+      "Noxious Fumes",
+      "Up Close and Personal"
+    ]
+  },
+  {
+    "Abilita": "Heal",
+    "Positive": [
+      "Protect",
+      "Strengthen",
+      "Flying"
+    ],
+    "Negative": [
+      "Affliction",
+      "Cripple",
+      "Weaken"
+    ],
+    "Regole Positive": [
+      "Equalizer",
+      "Noxious Fumes",
+      "Armored Up"
+    ],
+    "Regole Negative": [
+      "Healed Out",
+      "Target Practice",
+      "Little League"
+    ]
+  },
+  {
+    "Abilita": "Immunity",
+    "Positive": [
+      "Healing",
+      "Tank heal",
+      "Taunt"
+    ],
+    "Negative": [
+      ""
+    ],
+    "Regole Positive": [
+      "Noxious Fumes",
+      "Cripple",
+      "Super Sneak"
+    ],
+    "Regole Negative": [
+      ""
+    ]
+  },
+  {
+    "Abilita": "Inspire",
+    "Positive": [
+      "Enrage",
+      "Piercing",
+      "Giant Killer"
+    ],
+    "Negative": [
+      "Demoralize",
+      "Stun",
+      "Headwinds",
+      "Blind"
+    ],
+    "Regole Positive": [
+      "What Doesn't Kill You",
+      "Melee Mayhem",
+      "Unprotected"
+    ],
+    "Regole Negative": [
+      "Back to Basics",
+      "Keep your Distance",
+      "Going the Distance",
+      "Wands Out"
+    ]
+  },
+  {
+    "Abilita": "Knock Out",
+    "Positive": [
+      "Stun",
+      "Piercing",
+      "Enrage"
+    ],
+    "Negative": [
+      "Stun",
+      "Blind",
+      "Thorns",
+      "Magic Reflect",
+      "Return Fire"
+    ],
+    "Regole Positive": [
+      "Melee Mayhem",
+      "What Doesn't Kill You",
+      "Wands Out"
+    ],
+    "Regole Negative": [
+      "Heavy Hitters",
+      "Aimless",
+      "Super Sneak"
+    ]
+  },
+  {
+    "Abilita": "Last Stand",
+    "Positive": [
+      "Taunt",
+      "Heal",
+      "Shield",
+      "Forcefield",
+      "Void"
+    ],
+    "Negative": [
+      "Stun",
+      "Poison",
+      "Forcefield"
+    ],
+    "Regole Positive": [
+      "What Doesn't Kill You",
+      "Fog Of War",
+      "Noxious Fumes"
+    ],
+    "Regole Negative": [
+      "Super Sneak",
+      "Little Leagues",
+      "Aimless"
+    ]
+  },
+  {
+    "Abilita": "Life Leech",
+    "Positive": [
+      "Triage",
+      "Headwinds",
+      "Flying"
+    ],
+    "Negative": [
+      "Snipe",
+      "Blind",
+      "Opportunity"
+    ],
+    "Regole Positive": [
+      "Close Range",
+      "Equalizer",
+      "Fog of War"
+    ],
+    "Regole Negative": [
+      "Back to Basics",
+      "Equal Opportunity",
+      "Noxious Fumes"
+    ]
+  },
+  {
+    "Abilita": "Magic Reflect",
+    "Positive": [
+      "Thorns",
+      "Return Fire",
+      "Backfire"
+    ],
+    "Negative": [
+      "Reflection Shield",
+      "Stun",
+      "Void"
+    ],
+    "Regole Positive": [
+      "Up to Eleven",
+      "Holy Protection",
+      "Fire & Regret"
+    ],
+    "Regole Negative": [
+      "What Doesn't Kill You",
+      "Lost Magic",
+      "Up close and Personal"
+    ]
+  },
+  {
+    "Abilita": "Martyr",
+    "Positive": [
+      "Bloodlust",
+      "Conscript",
+      "Inspire"
+    ],
+    "Negative": [
+      "Taunt",
+      "Sneak",
+      "Camouflage"
+    ],
+    "Regole Positive": [
+      "Earthquake",
+      "Noxious Fumes",
+      "Counterspell",
+      "Fire & Regret",
+      "Briar Patch",
+      "Target Practice"
+    ],
+    "Regole Negative": [
+      "Reverse Speed",
+      "Equalizer",
+      "Melee Mayhem"
+    ]
+  },
+  {
+    "Abilita": "Opportunity",
+    "Positive": [
+      "Piercing",
+      "Scavenge",
+      "Camouflage"
+    ],
+    "Negative": [
+      "Thorns",
+      "Demoralize",
+      "Blind"
+    ],
+    "Regole Positive": [
+      "Unprotected",
+      "Noxious Fumes",
+      "Equalizer"
+    ],
+    "Regole Negative": [
+      "Back to Basics",
+      "Super Sneak",
+      "Heavy hitters"
+    ]
+  },
+  {
+    "Abilita": "Oppress",
+    "Positive": [
+      "Piercing",
+      "Weapons Training",
+      "Snipe"
+    ],
+    "Negative": [
+      "Thorns",
+      "Return Fire",
+      "Magic Reflect",
+      "Void Armor",
+      "Void",
+      "Shield",
+      "Stun"
+    ],
+    "Regole Positive": [
+      "Noxious Fumes",
+      "Target Practice",
+      "Little League"
+    ],
+    "Regole Negative": [
+      "Super Sneak",
+      "Back to Basics",
+      "Melee Mayhem",
+      "Going the Distance",
+      "Wands Out"
+    ]
+  },
+  {
+    "Abilita": "Phase",
+    "Positive": [
+      "Swiftness",
+      "Backfire",
+      "Flying"
+    ],
+    "Negative": [
+      "True Strike",
+      "Poison"
+    ],
+    "Regole Positive": [
+      "Wands Out",
+      "Broken Arrows",
+      "Target Practice"
+    ],
+    "Regole Negative": [
+      "Aim True",
+      "Lost Magic",
+      "Up Close and Personal"
+    ]
+  },
+  {
+    "Abilita": "Piercing",
+    "Positive": [
+      "Rust",
+      "Inspire",
+      "Retaliate"
+    ],
+    "Negative": [
+      "Return fire",
+      "Protect",
+      "Blind"
+    ],
+    "Regole Positive": [
+      "Armored Up",
+      "Aim True",
+      "Heavy Hitters"
+    ],
+    "Regole Negative": [
+      "Unprotected",
+      "Briar Patch",
+      "Back to Basics"
+    ]
+  },
+  {
+    "Abilita": "Poison",
+    "Positive": [
+      "Camouflage",
+      "Scavenger",
+      "Affliction"
+    ],
+    "Negative": [
+      "Cleanse",
+      "Immunity",
+      "Phase"
+    ],
+    "Regole Positive": [
+      "Equalizer",
+      "Holy Protection",
+      "Healed Out"
+    ],
+    "Regole Negative": [
+      "Counterspell",
+      "Fire & Regret",
+      "Briar Patch",
+      "Target Practice",
+      "Back to Basics"
+    ]
+  },
+  {
+    "Abilita": "Protect",
+    "Positive": [
+      "Repair",
+      "Void Armor",
+      "Shield"
+    ],
+    "Negative": [
+      "Rust",
+      "Piercing",
+      "Shatter"
+    ],
+    "Regole Positive": [
+      "Armored Up",
+      "Weak Magic",
+      "Up Close and Personal"
+    ],
+    "Regole Negative": [
+      "Unprotected",
+      "Magic Reflect",
+      "Back to Basics"
+    ]
+  },
+  {
+    "Abilita": "Reach",
+    "Positive": [
+      "Trample",
+      "Enrage",
+      "Piercing"
+    ],
+    "Negative": [
+      "Demoralize",
+      "Halving",
+      "Thorns"
+    ],
+    "Regole Positive": [
+      "Unprotected",
+      "Heavy Hitters",
+      "Stampede"
+    ],
+    "Regole Negative": [
+      "Back to Basics",
+      "Keep your Distance",
+      "Fog of war"
+    ]
+  },
+  {
+    "Abilita": "Rebirth",
+    "Positive": [
+      "Triage",
+      "Tank Heal",
+      "Void Armor",
+      "Inspire"
+    ],
+    "Negative": [
+      "Shatter",
+      "Piercing",
+      "Rust"
+    ],
+    "Regole Positive": [
+      "Noxious Fumes",
+      "Lost Magic",
+      "Holy Protection"
+    ],
+    "Regole Negative": [
+      "Equal Opportunity",
+      "Unprotected",
+      "Back to Basics"
+    ]
+  },
+  {
+    "Abilita": "Recharge",
+    "Positive": [
+      "Taunt",
+      "Camouflage",
+      "Piercing",
+      "Strengthen"
+    ],
+    "Negative": [
+      "Stun",
+      "Forcefield",
+      "Blind",
+      "Phase"
+    ],
+    "Regole Positive": [
+      "Equalizer",
+      "Super Sneak",
+      "Equal Opportunity",
+      "Unprotected"
+    ],
+    "Regole Negative": [
+      "Target Practice",
+      "Briar Patch",
+      "Counterspell",
+      "Fire & Regret",
+      "Noxious Fumes"
+    ]
+  },
+  {
+    "Abilita": "Redemption",
+    "Positive": [
+      "Rust",
+      "Affliction",
+      "Blast"
+    ],
+    "Negative": [
+      "Martyr",
+      "Shield",
+      "Protect"
+    ],
+    "Regole Positive": [
+      "Earthquake",
+      "Noxious Fumes",
+      "Counterspell",
+      "Fire & Regret",
+      "Briar Patch",
+      "Target Practice"
+    ],
+    "Regole Negative": [
+      "Equalizer",
+      "Armored Up",
+      "What Doesn't Kill You"
+    ]
+  },
+  {
+    "Abilita": "Reflection Shield",
+    "Positive": [
+      "Camouflage",
+      "Reach",
+      "Immunity"
+    ],
+    "Negative": [
+      "Stun",
+      "Scattershot",
+      "Poison"
+    ],
+    "Regole Positive": [
+      "Briar Patch",
+      "Counterspell",
+      "Fire & Regret",
+      "Explosive Weaponry"
+    ],
+    "Regole Negative": [
+      ""
+    ]
+  },
+  {
+    "Abilita": "Repair",
+    "Positive": [
+      "Void Armor",
+      "Protect",
+      "Demoralize"
+    ],
+    "Negative": [
+      "Rust",
+      "Piercing",
+      "Shatter"
+    ],
+    "Regole Positive": [
+      "Armored Up",
+      "Weak Magic",
+      "Up Close and Personal"
+    ],
+    "Regole Negative": [
+      "Unprotected",
+      "Keep Your Distance",
+      "Back to Basics"
+    ]
+  },
+  {
+    "Abilita": "Resurrect",
+    "Positive": [
+      "Triage",
+      "Tank Heal",
+      "Void Armor",
+      "Martyr"
+    ],
+    "Negative": [
+      "Shatter",
+      "Piercing",
+      "Rust"
+    ],
+    "Regole Positive": [
+      "Noxious Fumes",
+      "Lost Magic",
+      "Holy Protection"
+    ],
+    "Regole Negative": [
+      "Equal Opportunity",
+      "Unprotected",
+      "Target Practice"
+    ]
+  },
+  {
+    "Abilita": "Retaliate",
+    "Positive": [
+      "Enrage",
+      "Piercing",
+      "Inspire"
+    ],
+    "Negative": [
+      "Demoralize",
+      "Stun",
+      "Headwinds",
+      "Blind"
+    ],
+    "Regole Positive": [
+      "What Doesn't Kill You",
+      "Melee Mayhem",
+      "Spreading Fury"
+    ],
+    "Regole Negative": [
+      "Back to Basics",
+      "Keep your Distance",
+      "Going the Distance",
+      "Wands Out",
+      "Briar Patch"
+    ]
+  },
+  {
+    "Abilita": "Return Fire",
+    "Positive": [
+      "Thorns",
+      "Magic Reflect",
+      "Backfire"
+    ],
+    "Negative": [
+      "Reflection Shield",
+      "Stun",
+      "Shield"
+    ],
+    "Regole Positive": [
+      "Up to Eleven",
+      "Aim true",
+      "Lost Magic"
+    ],
+    "Regole Negative": [
+      "Broken Arrows",
+      "What Doesn't Kill You",
+      "Up close and Personal"
+    ]
+  },
+  {
+    "Abilita": "Rust",
+    "Positive": [
+      "Piercing",
+      "Inspire",
+      "Blast"
+    ],
+    "Negative": [
+      "Magic Reflect",
+      "Protect",
+      "Cleanse"
+    ],
+    "Regole Positive": [
+      "Armored Up",
+      "Weak Magic",
+      "Up Close and Personal"
+    ],
+    "Regole Negative": [
+      "Unprotected",
+      "Briar Patch",
+      "Back to Basics"
+    ]
+  },
+  {
+    "Abilita": "Scattershot",
+    "Positive": [
+      "Camouflage",
+      "Swiftness",
+      "Blast"
+    ],
+    "Negative": [
+      "Blind",
+      "Phase",
+      "Return Fire",
+      "Magic Reflect"
+    ],
+    "Regole Positive": [
+      "Back to Basics",
+      "Aim True",
+      "Unprotected"
+    ],
+    "Regole Negative": [
+      "Counterspell",
+      "Fire & Regret",
+      "Broken Arrows",
+      "Lost Magic",
+      "Back to Basics"
+    ]
+  },
+  {
+    "Abilita": "Scavenger",
+    "Positive": [
+      "Cleanse",
+      "Heal",
+      "Tank Heal",
+      "Resurrect"
+    ],
+    "Negative": [
+      "Poison",
+      "Affliction",
+      "Oppress"
+    ],
+    "Regole Positive": [
+      "Earthquake",
+      "Noxious Fumes",
+      "Counterspell",
+      "Fire & Regret",
+      "Briar Patch",
+      "Little League"
+    ],
+    "Regole Negative": [
+      "Target Practice",
+      "Equal Opportunity",
+      "Sneak",
+      "Equalizer",
+      "Back to Basics"
+    ]
+  },
+  {
+    "Abilita": "Shatter",
+    "Positive": [
+      "Inspire",
+      "Reach",
+      "Blast"
+    ],
+    "Negative": [
+      "Return Fire",
+      "Rust",
+      "Piercing"
+    ],
+    "Regole Positive": [
+      "Aim True",
+      "Armored Up",
+      "Weak Magic"
+    ],
+    "Regole Negative": [
+      "Unprotected",
+      "Return Fire",
+      "Back to Basics"
+    ]
+  },
+  {
+    "Abilita": "Shield",
+    "Positive": [
+      "Void Armor",
+      "Retaliate",
+      "Thorns"
+    ],
+    "Negative": [
+      "Shatter",
+      "Stun",
+      "Piercing"
+    ],
+    "Regole Positive": [
+      "Weak Magic",
+      "Equal Opportunity",
+      "Armored Up"
+    ],
+    "Regole Negative": [
+      "Keep Your Distance",
+      "Earthquake",
+      "Noxious Fumes"
+    ]
+  },
+  {
+    "Abilita": "Silence",
+    "Positive": [
+      "Headwinds",
+      "Phase",
+      "Blind"
+    ],
+    "Negative": [
+      "Blast",
+      "Return Fire",
+      "Magic Reflect",
+      "Cleanse"
+    ],
+    "Regole Positive": [
+      "Weak Magic",
+      "Broken Arrows",
+      "Return Fire"
+    ],
+    "Regole Negative": [
+      "Lost Magic",
+      "Melee Mayhem",
+      "Up close and Personal"
+    ]
+  },
+  {
+    "Abilita": "Slow",
+    "Positive": [
+      "Swiftness",
+      "Blind",
+      "Dodge"
+    ],
+    "Negative": [
+      "Cleanse",
+      "Immunity",
+      "Snipe"
+    ],
+    "Regole Positive": [
+      "Melee Mayhem",
+      "Weak Magic",
+      "Divine Shield"
+    ],
+    "Regole Negative": [
+      "Reverse Speed",
+      "Equal Opportunity",
+      "Target Practice"
+    ]
+  },
+  {
+    "Abilita": "Snare",
+    "Positive": [
+      "Snipe",
+      "Sneak",
+      "Opportunity",
+      "Flying",
+      "Stun"
+    ],
+    "Negative": [
+      "Cleanse",
+      "Magic Reflect",
+      "Return Fire",
+      "Thorns",
+      "Snipe"
+    ],
+    "Regole Positive": [
+      "Earthquake",
+      "Super Sneak",
+      "Target Practice"
+    ],
+    "Regole Negative": [
+      "Back to Basics",
+      "Broken Arrows",
+      "Wands Out"
+    ]
+  },
+  {
+    "Abilita": "Sneak",
+    "Positive": [
+      "Piercing",
+      "Shatter",
+      "Poison"
+    ],
+    "Negative": [
+      "Thorns",
+      "Demoralize",
+      "Blind"
+    ],
+    "Regole Positive": [
+      "Unprotected",
+      "Aim True",
+      "Keep Your Distance"
+    ],
+    "Regole Negative": [
+      "Back to Basics",
+      "Fog of war",
+      "Super Sneak"
+    ]
+  },
+  {
+    "Abilita": "Snipe",
+    "Positive": [
+      "Poison",
+      "Shatter",
+      "Camouflage"
+    ],
+    "Negative": [
+      "Magic Reflect",
+      "Return Fire",
+      "Void Armor"
+    ],
+    "Regole Positive": [
+      "Aim True",
+      "Explosive Weaponry",
+      "Armored Up"
+    ],
+    "Regole Negative": [
+      "Fog of War",
+      "Super Sneak",
+      "Target Practice"
+    ]
+  },
+  {
+    "Abilita": "Strengthen",
+    "Positive": [
+      "Cleanse",
+      "Heal",
+      "Tank Heal",
+      "Taunt"
+    ],
+    "Negative": [
+      "Weaken",
+      "Snipe",
+      "Cripple"
+    ],
+    "Regole Positive": [
+      "Equalizer",
+      "Little League",
+      "Healed Out"
+    ],
+    "Regole Negative": [
+      "Counterspell",
+      "Fire & Regret",
+      "Target Practice",
+      "Back to Basics"
+    ]
+  },
+  {
+    "Abilita": "Stun",
+    "Positive": [
+      "Knock out",
+      "Reach",
+      "Affliction"
+    ],
+    "Negative": [
+      "Stun",
+      "No attack",
+      "Cleanse"
+    ],
+    "Regole Positive": [
+      "Heavy Hitters",
+      "What Doesn't Kill You",
+      "Equalizer"
+    ],
+    "Regole Negative": [
+      "Aimless",
+      "Super Sneak",
+      "Briar Patch",
+      "Counterspell",
+      "Fire & Regret"
+    ]
+  },
+  {
+    "Abilita": "Swiftness",
+    "Positive": [
+      "Flying",
+      "Backfire",
+      "Slow"
+    ],
+    "Negative": [
+      "True Strike",
+      "Snipe",
+      "Slow"
+    ],
+    "Regole Positive": [
+      "Up Close and Personal",
+      "Stampede",
+      "Super Sneak"
+    ],
+    "Regole Negative": [
+      "Aim True",
+      "Reverse Speed",
+      "Magic Reflect"
+    ]
+  },
+  {
+    "Abilita": "Tank Heal",
+    "Positive": [
+      "Protect",
+      "Strengthen",
+      "Flying"
+    ],
+    "Negative": [
+      "Affliction",
+      "Cripple",
+      "Weaken"
+    ],
+    "Regole Positive": [
+      "Equalizer",
+      "Noxious Fumes",
+      "Armored Up"
+    ],
+    "Regole Negative": [
+      "Healed Out",
+      "Target Practice",
+      "Little League"
+    ]
+  },
+  {
+    "Abilita": "Taunt",
+    "Positive": [
+      "Void",
+      "Void Armor",
+      "Shield",
+      "Phase",
+      "Dodge",
+      "Blind",
+      "Thorns",
+      "Return Fire",
+      "Magic Reflect"
+    ],
+    "Negative": [
+      "Fury",
+      "Giant Killer",
+      "Stun"
+    ],
+    "Regole Positive": [
+      "Fog of War",
+      "Explosive Weaponry",
+      "Noxious Fumes"
+    ],
+    "Regole Negative": [
+      "Little League",
+      "Back to Basics",
+      "Unprotected"
+    ]
+  },
+  {
+    "Abilita": "Thorns",
+    "Positive": [
+      "Return Fire",
+      "Backfire",
+      "Magic Reflect"
+    ],
+    "Negative": [
+      "Reflection Shield",
+      "Stun",
+      "Heal"
+    ],
+    "Regole Positive": [
+      "Up to Eleven",
+      "Holy Protection",
+      "Up close and Personal"
+    ],
+    "Regole Negative": [
+      "What Doesn't Kill You",
+      "Keep your Distance",
+      "Close Range"
+    ]
+  },
+  {
+    "Abilita": "Trample",
+    "Positive": [
+      "Retaliate",
+      "Enrage",
+      "Piercing"
+    ],
+    "Negative": [
+      "Demoralize",
+      "Halving",
+      "Forcefield"
+    ],
+    "Regole Positive": [
+      "Stampede",
+      "Heavy Hitters",
+      "Melee Mayhem"
+    ],
+    "Regole Negative": [
+      "Super Sneak",
+      "Keep your Distance",
+      "Fog of war"
+    ]
+  },
+  {
+    "Abilita": "Triage",
+    "Positive": [
+      "Protect",
+      "Strengthen",
+      "Taunt"
+    ],
+    "Negative": [
+      "Affliction",
+      "Cripple",
+      "Weaken"
+    ],
+    "Regole Positive": [
+      "Equalizer",
+      "Noxious Fumes",
+      "Super Sneak"
+    ],
+    "Regole Negative": [
+      "Healed Out",
+      "Target Practice",
+      "Little League"
+    ]
+  },
+  {
+    "Abilita": "True Strike",
+    "Positive": [
+      "Blast",
+      "Poison",
+      "Piercing"
+    ],
+    "Negative": [
+      "Halving",
+      "Stun",
+      "Thorns"
+    ],
+    "Regole Positive": [
+      "Stampede",
+      "Unprotected",
+      "Up close and Personal"
+    ],
+    "Regole Negative": [
+      "Aim True",
+      "Counterspell",
+      "Broken Arrows",
+      "Briar Patch",
+      "Wands Out"
+    ]
+  },
+  {
+    "Abilita": "Void",
+    "Positive": [
+      "Void Armor",
+      "Magic Reflect",
+      "Phase"
+    ],
+    "Negative": [
+      "Knock Out",
+      "Cripple",
+      "Weaken"
+    ],
+    "Regole Positive": [
+      "Equalizer",
+      "Wands Out",
+      "Broken Arrows"
+    ],
+    "Regole Negative": [
+      "Lost Magic",
+      "Up close and Personal",
+      "Noxious Fumes"
+    ]
+  },
+  {
+    "Abilita": "Void Armor",
+    "Positive": [
+      "Void",
+      "Repair",
+      "Protect"
+    ],
+    "Negative": [
+      "Shatter",
+      "Piercing",
+      "Rust"
+    ],
+    "Regole Positive": [
+      "Armored Up Wands Out",
+      "Noxious Fumes"
+    ],
+    "Regole Negative": [
+      "Weak Magic",
+      "Unprotected",
+      "Lost Magic"
+    ]
+  },
+  {
+    "Abilita": "Weaken",
+    "Positive": [
+      "Cripple",
+      "Affliction",
+      "Poison"
+    ],
+    "Negative": [
+      "Strengthen",
+      "Cleanse",
+      "Snipe"
+    ],
+    "Regole Positive": [
+      "Armored Up",
+      "Equalizer",
+      "Little League"
+    ],
+    "Regole Negative": [
+      "Counterspell",
+      "Fire & Regret",
+      "Heavy Hitters",
+      "Earthquake"
+    ]
+  },
+  {
+    "Abilita": "Weapon Training",
+    "Positive": [
+      "Scavenger",
+      "Swiftness",
+      "Protect",
+      "Inspire",
+      "Strengthen",
+      "Taunt"
+    ],
+    "Negative": [
+      "Oppress",
+      "Blind",
+      "Phase"
+    ],
+    "Regole Positive": [
+      "Heavy Hitters",
+      "Spreading Fury",
+      "Equalizer"
+    ],
+    "Regole Negative": [
+      "Target Practice",
+      "Counterspell",
+      "Fire & Regret",
+      "Briar Patch",
+      "Up Close and Personal",
+      "Wands Out",
+      "Going the Distance"
+    ]
+  }
+]
